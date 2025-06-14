@@ -8,5 +8,6 @@ void main()
 {
 
 	cout << "With VS";
+	cout << "With VS CODE";
 
 }
